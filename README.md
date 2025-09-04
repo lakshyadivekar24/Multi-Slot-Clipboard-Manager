@@ -60,11 +60,11 @@ With the **Multi-Slot Clipboard Manager**, you can save multiple clipboard entri
 
 1. Save multiple lines:
    
-    Cmd+C+1 → "Hello World" saved to Slot 1
-    Cmd+C+2 → "Multi-slot clipboard" saved to Slot 2
+    - Cmd+C+1 → "Hello World" saved to Slot 1.
+    - Cmd+C+2 → "Multi-slot clipboard" saved to Slot 2.
 
-2. Recall and paste:
+3. Recall and paste:
    
-   Ctrl+1 → "Hello World" Sends to Clipboard now you can press Cmd + V to paste the Text.
-   Ctrl+2 → "Multi-slot clipboard" Sends to Clipboard now you can press Cmd + V to paste the Text.
+   - Ctrl+1 → "Hello World" Sends to Clipboard now you can press Cmd + V to paste the Text.
+   - Ctrl+2 → "Multi-slot clipboard" Sends to Clipboard now you can press Cmd + V to paste the Text.
 
