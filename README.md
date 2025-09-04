@@ -31,6 +31,7 @@ With the **Multi-Slot Clipboard Manager**, you can save multiple clipboard entri
 -  **GUI manager** → A small window to view, edit, and manage all slots visually.  
 -  **Auto-start on boot** → Make the clipboard manager run automatically when your PC starts, so you don’t need to manually launch it every time.  
 -  **Cloud sync (optional)** → Sync clipboard slots across devices.
+-  **Files and Media files** → You can Even Copy and Paste the Files and Media Files (Photo, Video, Documents etc.) Any sort of files.
   
   ---
 ## Installation
@@ -64,5 +65,6 @@ With the **Multi-Slot Clipboard Manager**, you can save multiple clipboard entri
 
 2. Recall and paste:
    
-   Ctrl+1 → "Hello World" ready to paste
-   Ctrl+2 → "Multi-slot clipboard" ready to paste
+   Ctrl+1 → "Hello World" Sends to Clipboard now you can press Cmd + V to paste the Text.
+   Ctrl+2 → "Multi-slot clipboard" Sends to Clipboard now you can press Cmd + V to paste the Text.
+
