@@ -1,0 +1,1 @@
+# Multi-Slot-Clipboard-Manager
