@@ -1,7 +1,7 @@
 # Multi-Slot Clipboard Manager
 
 Tired of copying and pasting one thing at a time?  
-With the **Multi-Slot Clipboard Manager**, you can save multiple clipboard entries (up to 9) and recall them anytime with simple keyboard shortcuts. 🚀  
+With the **Multi-Slot Clipboard Manager**, you can save multiple clipboard entries (up to 9) and recall them anytime with simple keyboard shortcuts. 
 
 ---
 
